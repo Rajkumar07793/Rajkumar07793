@@ -1,98 +1,153 @@
 # 👋 Hi, I'm Raj Kumar Patel
 
-🚀 **Flutter Developer | Mobile App Specialist**  
-💼 4+ years of experience in building scalable & high-performance mobile applications
+🚀 **Senior Flutter & iOS Developer**  
+📱 5+ years of experience building production-grade fintech, streaming, and real-time communication applications used by thousands of users.
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 Professional Summary
 
-I am a passionate Flutter Developer with strong experience in:
-- Building production-ready mobile apps
-- Writing clean & maintainable code
-- Working with real-time data, APIs & local databases
-
-I have worked on apps related to **FinTech, Spam Detection, Ride Booking, Caller ID & Communication systems**.
+Senior Flutter Developer with strong expertise in **BLoC architecture, performance optimization**, and **cross-platform delivery** for Android & iOS.  
+Experienced in building **scalable, secure, and real-time applications** across fintech, live streaming, radio, spam detection, and ride-sharing domains.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 📱 Mobile Development
-- Flutter (Dart)
-- Android & iOS App Development
-- Clean Architecture
-- BLoC / Provider / Riverpod
+### Core
+- Flutter, Dart
+- BLoC, Clean Architecture
 
-### 🌐 Backend & APIs
+### State Management
+- BLoC, Cubit
+- GetX, Provider
+
+### Backend & Realtime
 - REST APIs
-- Firebase (Auth, Firestore, FCM)
-- Socket.IO (Real-time apps)
+- Firebase
+- WebSockets, Socket.IO
 
-### 💾 Database
-- SQLite
-- Hive
-- Shared Preferences
+### Databases
+- SQLite (SQFlite)
 
-### 📞 Advanced Features
-- SMS & Call Log Handling
-- Caller ID & CallKit
-- WebRTC (Audio Calls)
-- Background services
+### Payments & Security
+- Stripe, RazorPay
+- Encryption & Authentication Flows
 
----
+### DevOps & Tools
+- GitHub, GitLab
+- CI/CD
+- JIRA, Postman
 
-## 🚀 Featured Projects
-
-### 🔹 Spam Detection App (Truecaller-like)
-- SMS parsing & classification
-- TFLite ML model integration
-- Local + server sync
-- BLoC-based architecture
-
-### 🔹 Ride Booking App
-- Real-time ride matching
-- Socket-based updates
-- Location tracking
-- Multi-role system (User / Driver / Admin)
-
-### 🔹 FinTech / Wallet App
-- KYC & verification
-- Transactions & recharge
-- Secure APIs
-- Multi-language support
-
-> 🔗 More projects available on my GitHub repositories.
+### Platforms
+- Android, iOS
+- Web, macOS, Windows, Linux
 
 ---
 
-## 🌐 Portfolio Website
+## 💼 Professional Experience
 
-👉 **Live Portfolio:**  
-🔗 https://rajkumar07793.github.io/my_portfilo/
+### **Sr. Flutter & iOS Developer**  
+**Impetrosys Software Solutions Pvt. Ltd., Indore**  
+📅 *Dec 2020 – Present*
 
----
-
-## 📫 Contact Me
-
-- 📧 Email: your.email@gmail.com  
-- 💼 LinkedIn: https://linkedin.com/in/your-linkedin  
-- 🐙 GitHub: https://github.com/Rajkumar07793  
-
----
-
-## 📄 Resume
-
-📥 [Download Resume](YOUR_RESUME_LINK)
+- Built and maintained **10+ production Flutter applications**
+- Implemented **BLoC-based scalable architecture**, reducing UI bugs and improving maintainability
+- Integrated **real-time chat, calls & live streaming** using WebSockets & Socket.IO
+- Delivered apps with **Stripe payments, Firebase push notifications & deep linking**
+- Published and maintained applications on **Google Play Store & Apple App Store**
+- Collaborated directly with **clients and backend teams** to deliver features end-to-end
 
 ---
 
-## 🤝 Let's Connect
+### **Trainee Electronics Engineer**  
+**Kailtech Test & Research Centre Pvt. Ltd., Indore**  
+📅 *July 2018 – June 2020*
 
-I'm open to:
-- Freelance projects
-- Full-time Flutter roles
-- Startup collaborations
-- Technical discussions
+- Tested electronic appliances as per **BIS standards**
+- Prepared BIS test reports and assisted in product registration
+- Coordinated with internal teams and clients
 
-⭐ If you like my work, don’t forget to **star** the repository!
+---
+
+## 🚀 Key Projects
+
+### 🔹 Sound Chat Radio
+Live streaming app supporting **audio, video, chat & in-app payments**
+
+**Tech Used:**  
+Flutter, BLoC, REST APIs, Firebase, Socket.IO, Stripe, Twilio Voice SDK  
+🔗 Play Store: https://play.google.com/store/apps/details?id=com.soundchatradio.broadlink  
+🔗 App Store: https://apps.apple.com/tt/app/sound-chat-radio/id1585082754
+
+---
+
+### 🔹 Only4Pets
+Pet marketplace & community app for buyers, sellers & pet lovers
+
+**Tech Used:**  
+Flutter, Firebase, Stripe, Deep Linking, BLoC  
+🔗 Play Store: https://play.google.com/store/apps/details?id=com.app.only4pets  
+🔗 App Store: https://apps.apple.com/app/only4pets/id1620868498
+
+---
+
+### 🔹 BCTPay (FinTech App)
+Digital payment platform supporting **P2P transfers, subscriptions & invoices**
+
+**Tech Used:**  
+Flutter, REST APIs, Firebase, Encryption, BLoC  
+🚧 *Coming Soon on Stores*
+
+---
+
+### 🔹 Broadlink Protect
+Spam detection app for **calls, SMS & emails**
+
+**Tech Used:**  
+Flutter, SQLite, Firebase, BLoC  
+🚧 *Coming Soon on Stores*
+
+---
+
+### 🔹 Co-Travel
+Real-time ride-sharing application
+
+**Tech Used:**  
+Flutter, Google Maps, Firebase, WebSockets, BLoC  
+🚧 *Coming Soon on Stores*
+
+---
+
+## 🎓 Education
+
+**B.E. Electronics & Communication Engineering**  
+RGPV University (2014–2018)  
+🎯 CGPA: 7.60
+
+---
+
+## 🌐 Portfolio
+
+🔗 **Live Portfolio:**  
+https://rajkumar07793.github.io/my_portfilo/
+
+---
+
+## 📫 Contact
+
+- 📍 Kareli, Narsinghpur, Madhya Pradesh, India
+- 📧 Email: rajkumar07793@gmail.com
+- 📞 Phone: +91 9977783414
+- 💼 LinkedIn: https://www.linkedin.com/in/rajkumar07793
+- 🐙 GitHub: https://github.com/Rajkumar07793
+
+---
+
+## 🤝 Open To
+
+- Senior Flutter roles
+- FinTech & real-time application projects
+- Freelance / Contract opportunities
+
+⭐ If you like my work, feel free to star the repositories!
