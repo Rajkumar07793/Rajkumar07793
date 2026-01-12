@@ -1,16 +1,98 @@
-## Hi there 👋
+# 👋 Hi, I'm Raj Kumar Patel
 
-<!--
-**Rajkumar07793/Rajkumar07793** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Flutter Developer | Mobile App Specialist**  
+💼 4+ years of experience in building scalable & high-performance mobile applications
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+I am a passionate Flutter Developer with strong experience in:
+- Building production-ready mobile apps
+- Writing clean & maintainable code
+- Working with real-time data, APIs & local databases
+
+I have worked on apps related to **FinTech, Spam Detection, Ride Booking, Caller ID & Communication systems**.
+
+---
+
+## 🛠️ Tech Stack
+
+### 📱 Mobile Development
+- Flutter (Dart)
+- Android & iOS App Development
+- Clean Architecture
+- BLoC / Provider / Riverpod
+
+### 🌐 Backend & APIs
+- REST APIs
+- Firebase (Auth, Firestore, FCM)
+- Socket.IO (Real-time apps)
+
+### 💾 Database
+- SQLite
+- Hive
+- Shared Preferences
+
+### 📞 Advanced Features
+- SMS & Call Log Handling
+- Caller ID & CallKit
+- WebRTC (Audio Calls)
+- Background services
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 Spam Detection App (Truecaller-like)
+- SMS parsing & classification
+- TFLite ML model integration
+- Local + server sync
+- BLoC-based architecture
+
+### 🔹 Ride Booking App
+- Real-time ride matching
+- Socket-based updates
+- Location tracking
+- Multi-role system (User / Driver / Admin)
+
+### 🔹 FinTech / Wallet App
+- KYC & verification
+- Transactions & recharge
+- Secure APIs
+- Multi-language support
+
+> 🔗 More projects available on my GitHub repositories.
+
+---
+
+## 🌐 Portfolio Website
+
+👉 **Live Portfolio:**  
+🔗 https://rajkumar07793.github.io/my_portfilo/
+
+---
+
+## 📫 Contact Me
+
+- 📧 Email: your.email@gmail.com  
+- 💼 LinkedIn: https://linkedin.com/in/your-linkedin  
+- 🐙 GitHub: https://github.com/Rajkumar07793  
+
+---
+
+## 📄 Resume
+
+📥 [Download Resume](YOUR_RESUME_LINK)
+
+---
+
+## 🤝 Let's Connect
+
+I'm open to:
+- Freelance projects
+- Full-time Flutter roles
+- Startup collaborations
+- Technical discussions
+
+⭐ If you like my work, don’t forget to **star** the repository!
